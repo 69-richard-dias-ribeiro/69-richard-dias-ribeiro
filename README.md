@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @69-richard-dias-ribeiro
 - 👀 I’m mostly interested in 3D art for video games, but I'm currently dedicated to learning more about web development and programming in general;
 - 🌱 I’m currently learning css and responsive design (about to start learning bootstrap 4 soon);
-- 💞️ I’m looking to collaborate on frontend development for web projects;
+- 💞️ I’m looking forward to collaborating on frontend development for web projects;
 - 📫 You can reach me through my email: richardias9699@gmail.com.
