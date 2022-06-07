@@ -1,5 +1,5 @@
 - Hi, I’m Richard Ribeiro
 - I'm currently dedicated to learning more about web development and programming in general;
-- Right now, I´ve been studying React.js (still really early in this proccess);
+- Right now, I´ve been studying React.js (still really early in this proccess, though);
 - I’m looking forward to collaborating on frontend development for web projects;
 - You can reach me through my email: richardias9699@gmail.com.
