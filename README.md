@@ -22,5 +22,5 @@
 ### - By the way, I'm also very acquainted with 3D art development using Blender 2.78 (as well as some previous versions of it) and texture creation using MS Paint and some GIMP plugins, along with computer graphics related concepts, like uv mapping, skeletal rigging and etc. 🎨
 
 <img src="https://user-images.githubusercontent.com/62509375/185266916-05eeeded-a309-4528-9e36-20bb11e624b6.png" width="60" display="inline">  | 
-<img src="https://user-images.githubusercontent.com/62509375/185266950-17ad3a7e-69c4-46ad-930c-e415ba40224d.png" width="60" display="inline">  | 
-<img src="https://user-images.githubusercontent.com/62509375/185266974-eb23004c-eb57-43b7-9fbe-b5fedfc41e50.jpg" width="60" display="inline">
+<img src="https://user-images.githubusercontent.com/62509375/185266974-eb23004c-eb57-43b7-9fbe-b5fedfc41e50.jpg" width="60" display="inline">  | 
+<img src="https://user-images.githubusercontent.com/62509375/185266950-17ad3a7e-69c4-46ad-930c-e415ba40224d.png" width="60" display="inline">
