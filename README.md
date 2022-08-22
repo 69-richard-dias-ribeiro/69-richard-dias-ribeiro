@@ -1,4 +1,4 @@
-### - Hello there, 🙋‍
+### - Hello ~~World~~ there, 🙋‍
 
 ### - I’m currently looking forward to collaborating in an entry-level backend/frontend web development position. 💻
 
