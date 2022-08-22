@@ -2,6 +2,12 @@
 
 ### - I’m currently looking forward to collaborating in an entry-level backend/frontend web development position. 💻
 
+### - I've got some experience with RPA and custom forms development using the following Microsoft low-code/no-code platforms:
+
+<img src="https://user-images.githubusercontent.com/62509375/186008850-91544e8b-e7d9-4df4-b179-fbfeae41553f.png" width="60" display="inline"> | 
+<img src="https://user-images.githubusercontent.com/62509375/186008965-5d4cb86b-fa4c-4ab6-badb-96b92fa66237.png" width="60" display="inline"> | 
+<img src="https://user-images.githubusercontent.com/62509375/186009111-4bb2e864-69b2-4c36-9161-e65c9cc803e8.png" width="60" display="inline">
+
 ### - Some of the main programming languages I'm significantly comfortable with are (from most to least mastered):
 
 <img src="https://user-images.githubusercontent.com/62509375/185268203-66c3fe7b-fc64-4457-892e-36beeb77e106.png" width="60">  | 
