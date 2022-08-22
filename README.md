@@ -1,6 +1,6 @@
 ### - Hello there, 🙋‍
 
-### - I’m currently available and looking forward to collaborating in an entry-level backend/frontend web development position. 💻
+### - I’m currently looking forward to collaborating in an entry-level backend/frontend web development position. 💻
 
 ### - Some of the main programming languages I'm significantly comfortable with are (from most to least mastered):
 
