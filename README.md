@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/62509375/186008965-5d4cb86b-fa4c-4ab6-badb-96b92fa66237.png" width="60" display="inline"> | 
 <img src="https://user-images.githubusercontent.com/62509375/186009111-4bb2e864-69b2-4c36-9161-e65c9cc803e8.png" width="60" display="inline">
 
-### - Some of the main **programming languages** I'm significantly comfortable with are (from most to least mastered):
+### - Some of the main **programming languages** I'm significantly comfortable with are (from most to least mastered, left to right):
 
 <img src="https://user-images.githubusercontent.com/62509375/185268203-66c3fe7b-fc64-4457-892e-36beeb77e106.png" width="60">  | 
 <img src="https://user-images.githubusercontent.com/62509375/185268240-60805faa-631e-4a95-af29-b8ebadcb1898.png" width="60">  | 
@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/62509375/185268653-48b81ae3-e601-4992-80c3-8e67039bd86c.png" width="60">  | 
 <img src="https://user-images.githubusercontent.com/62509375/185268674-b4157c67-4de4-4d8f-a948-ee05af9dede8.png" width="60">
 
-### - Some of the main **web frameworks** I've coded in are (from most to least mastered):
+### - Some of the main **web frameworks** I've coded in are (from most to least mastered, left to right):
 
 <img src="https://user-images.githubusercontent.com/62509375/185267487-b0cb44fd-b88b-414a-8e1b-f986d91276ec.png" width="60" display="inline">  | 
 <img src="https://user-images.githubusercontent.com/62509375/185267555-f5f119a5-556b-44df-a5e4-6d32c78607e1.png" width="60" display="inline">  | 
