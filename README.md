@@ -2,7 +2,7 @@
 
 ### - I’m currently looking forward to collaborating in an entry-level backend/frontend web development position. 💻
 
-### - I've got some experience with **RPA** and **custom forms** development using the following Microsoft low-code/no-code platforms:
+### - I've got some experience with **RPA** and **web forms** development using the following Microsoft low-code/no-code platforms:
 
 <img src="https://user-images.githubusercontent.com/62509375/186008850-91544e8b-e7d9-4df4-b179-fbfeae41553f.png" width="60" display="inline"> | 
 <img src="https://user-images.githubusercontent.com/62509375/186008965-5d4cb86b-fa4c-4ab6-badb-96b92fa66237.png" width="60" display="inline"> | 
