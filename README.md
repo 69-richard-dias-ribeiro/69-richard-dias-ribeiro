@@ -1,6 +1,6 @@
 ### - Hello ~~World~~ there, 🙋‍
 
-### - I’m currently looking forward to collaborating in an entry-level application development position; 💻
+### - I’m currently open for an entry-level application development position; 💻
 
 ### - Some of the main **programming languages** I'm significantly comfortable with are (from most to least mastered, left to right):
 
