@@ -1,7 +1,5 @@
 ### - Hello ~~World~~ there, 🙋‍
 
-### - I’m currently open for an entry-level application development position; 💼
-
 ### - Some of the main **programming languages** I've written code in are (from left to right, most to least mastered):
 
 <img src="https://user-images.githubusercontent.com/62509375/185268203-66c3fe7b-fc64-4457-892e-36beeb77e106.png" width="60">  | 
@@ -19,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/62509375/185267555-f5f119a5-556b-44df-a5e4-6d32c78607e1.png" width="60" display="inline">  | 
 <img src="https://user-images.githubusercontent.com/62509375/185267681-9d7d147a-1194-4fbd-b955-cae326576a74.png" width="60" display="inline">
 
-### - By the way, I'm also very acquainted with **3D art** development using Blender 2.78 (as well as some previous versions of it) and texture creation using MS Paint and some GIMP plugins, along with computer graphics related concepts, like shaders, materials, uv mapping, skeletal rigging, etc.; 🎨
+### - By the way, I'm also very acquainted with **3D art** development using Blender 2.78 (+ texture creation using MS Paint + some GIMP plugins), as well as some computer graphics-related concepts, like shaders, materials, uv mapping, skeletal rigging, etc. You can see some of my renderings at https://richarddiasribeiro.cgsociety.org/; 🎨
 
 <img src="https://user-images.githubusercontent.com/62509375/185266916-05eeeded-a309-4528-9e36-20bb11e624b6.png" width="60" display="inline">  | 
 <img src="https://user-images.githubusercontent.com/62509375/185266974-eb23004c-eb57-43b7-9fbe-b5fedfc41e50.jpg" width="60" display="inline">  | 
