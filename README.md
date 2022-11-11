@@ -1,5 +1,7 @@
 ### - Hello ~~World~~ there, 🙋‍
 
+### - Welcome to my github profile page 👨‍💻
+
 ### - Some of the main **programming languages** I've written code in are (from left to right: most to least mastered):
 
 <img src="https://user-images.githubusercontent.com/62509375/185268203-66c3fe7b-fc64-4457-892e-36beeb77e106.png" width="60">  | 
