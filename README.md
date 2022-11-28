@@ -2,7 +2,7 @@
 
 ### - Welcome to my github profile page 👨‍💻
 
-### - Some of the main **programming languages** I've written code in are (from left to right: most to least mastered):
+### - Some of the main **programming languages** I've written code in are:
 
 <img src="https://user-images.githubusercontent.com/62509375/185268203-66c3fe7b-fc64-4457-892e-36beeb77e106.png" width="60">  | 
 <img src="https://user-images.githubusercontent.com/62509375/185268240-60805faa-631e-4a95-af29-b8ebadcb1898.png" width="60">  | 
@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/62509375/185268653-48b81ae3-e601-4992-80c3-8e67039bd86c.png" width="60">  | 
 <img src="https://user-images.githubusercontent.com/62509375/185268674-b4157c67-4de4-4d8f-a948-ee05af9dede8.png" width="60">
 
-### - Some of the main **web frameworks** I've used are (from left to right: most to least mastered):
+### - Some of the main **web frameworks** I've used are:
 
 <img src="https://user-images.githubusercontent.com/62509375/185267487-b0cb44fd-b88b-414a-8e1b-f986d91276ec.png" width="60" display="inline">  | 
 <img src="https://user-images.githubusercontent.com/62509375/185267555-f5f119a5-556b-44df-a5e4-6d32c78607e1.png" width="60" display="inline">  | 
