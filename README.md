@@ -14,4 +14,4 @@
 <img src="https://user-images.githubusercontent.com/62509375/185267555-f5f119a5-556b-44df-a5e4-6d32c78607e1.png" width="60" display="inline">  ¨¨¨ 
 <img src="https://user-images.githubusercontent.com/62509375/185267681-9d7d147a-1194-4fbd-b955-cae326576a74.png" width="60" display="inline">   
 
-### - Feel free to reach me through my email for part/full-time/freelance/extraterrestrial jobs. 📬 See ya!
+### - Feel free to reach me through my email for part/full-time/freelance/extraterrestrial jobs. 📬 See ya ;)
