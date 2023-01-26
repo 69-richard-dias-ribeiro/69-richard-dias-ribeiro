@@ -1,7 +1,7 @@
 ### Hello ~~World~~ there, 🙋‍♂️
 
 Welcome to my github profile page 👨‍💻<br/>
-Here you'll find small desktop/web applications - most of them of my own - written in the following languages:
+In it you'll find small desktop/web applications - most of them of my own - written in the following languages:
 <table style="border-color: red">
    <tr>
          <td>JavaScript</td>
