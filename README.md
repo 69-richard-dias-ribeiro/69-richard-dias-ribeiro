@@ -1,6 +1,6 @@
 ### Hello ~~World~~ there, 🙋‍♂️
 
-In this profile you'll find small desktop/web applications - most of them of my own - written in the following languages:
+In this profile you'll find small web/desktop applications - most of them of my own - written in the following languages:
 <table style="border-color: red">
    <tr>
          <td>JavaScript</td>
