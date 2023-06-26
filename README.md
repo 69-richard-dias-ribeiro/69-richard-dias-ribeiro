@@ -1,6 +1,6 @@
 ### Hello ~~World~~ there, 🙋‍♂️
 
-In this profile you'll find small web/desktop applications - most of them of my own - written in the following languages:
+In this profile you'll find some small web/desktop applications I've written on my own in the following languages and frameworks:
 <table style="border-color: red">
    <tr>
          <td>JavaScript</td>
@@ -14,10 +14,6 @@ In this profile you'll find small web/desktop applications - most of them of my 
       <td><img src="https://user-images.githubusercontent.com/62509375/209418307-3740d8e4-9014-4f7c-98e2-782c066e1f38.png" width="60"></td>
       <td><img src="https://user-images.githubusercontent.com/62509375/209418334-4e2e201d-d782-4553-9b4d-93aa7b1336d6.png" width="60"></td>
    </tr>
-</table>
-
-... and with the following frameworks:
-<table>
    <tr>
          <td>&nbsp;&nbsp;Laravel</td>
          <td>&nbsp;&nbsp;Spring</td>
