@@ -13,7 +13,7 @@ In this profile you'll find some small web/desktop applications I've written on 
       <td><img src="https://user-images.githubusercontent.com/62509375/185268240-60805faa-631e-4a95-af29-b8ebadcb1898.png" width="60"></td>
       <td><img src="https://user-images.githubusercontent.com/62509375/209418307-3740d8e4-9014-4f7c-98e2-782c066e1f38.png" width="60"></td>
       <td><img src="https://user-images.githubusercontent.com/62509375/209418334-4e2e201d-d782-4553-9b4d-93aa7b1336d6.png" width="60"></td>
-   </tr>
+   </tr></table><table>
    <tr>
          <td>&nbsp;&nbsp;Laravel</td>
          <td>&nbsp;&nbsp;Spring</td>
@@ -24,4 +24,4 @@ In this profile you'll find some small web/desktop applications I've written on 
   </tr>
 </table>
 
-Feel free to reach me through my email for full-time/part-time/freelance/extraterrestrial jobs. 📬 See ya ;)
+Feel free to reach me out through richarddiasribeiro29@gmail.com for full-time/part-time/freelance/extraterrestrial jobs. 📬 See ya ;)
