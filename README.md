@@ -24,4 +24,4 @@ In this profile you'll find some small web/desktop applications I've written on 
   </tr>
 </table>
 
-Feel free to reach me out through richarddiasribeiro29@gmail.com for full-time/part-time/freelance/extraterrestrial jobs. 📬 See ya ;)
+Feel free to reach me out through richarddiasribeiro29@gmail.com for permanent or freelance jobs. 📬 See ya ;)
